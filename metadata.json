@@ -1,22 +1,21 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Python: The time.time() Function",
+    "slug": "python-time-function",
+    "description": "Describes the time.time() function and how it returns the current time.",
     "authors": [
-        "",
-        ""
+        "chris-cooling",
+        "giorgia-del-missier"
     ],
     "tags": [
-        "",
-        ""
+        "python"
     ],
-    "duration": 0,
+    "duration": 1,
     "prerequisites": [
-        "",
-        ""
+        "python-time-module",
+        "programming-calling-functions",
+        "programming-integers-and-floats"
     ],
     "related": [
-        "",
-        ""
+        "python-measuring-elapsed-time-with-time-function"
     ]
 }
