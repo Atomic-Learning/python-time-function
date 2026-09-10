@@ -2,7 +2,7 @@ The `time()` function of the `time` module in Python returns the current time in
 
 Try running the code cell below a few times to see how it changes with each execution.
 
-```python
+```py-cell
 import time
 
 current_time = time.time()
